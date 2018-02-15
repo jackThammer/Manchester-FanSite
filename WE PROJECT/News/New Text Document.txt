@@ -1,0 +1,24 @@
+<html>
+<head><title></title>
+</head>
+<body bgcolor="black">
+<center>
+<font color="red">
+<h1>Big New's </h1>
+<hr color="red">
+<font color="white">
+<table>
+<tr>
+<td>
+<image src="file:\\\C:\WE PROJECT\News\874222-david-moyes.jpg" height=350 width=500 >
+</td>
+<td>
+<a href="fiel:\\\C:\WE PROJECT\News\Players\david.html">David Moyes warns of 'more blows' to come at Manchester United</a>
+</td>
+</tr>
+</table>
+</font>
+</center>
+</body>
+</html>
+

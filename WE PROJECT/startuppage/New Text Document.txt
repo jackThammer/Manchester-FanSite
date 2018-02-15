@@ -1,0 +1,22 @@
+<html>
+<head>
+<style> 
+img
+{
+width:100px;
+height:75px;
+border:1px solid black;
+}
+img#img2
+{
+transform:scale(2,4);
+-ms-transform:scale(2,4); /* IE 9 */
+-webkit-transform:scale(2,4); /* Safari and Chrome */
+}
+</style>
+</head>
+<body>
+
+<image src="file:\\\C:\WE PROJECT\startuppage\manchesterunited-header.jpg"  id="div2">
+</body>
+</html>
